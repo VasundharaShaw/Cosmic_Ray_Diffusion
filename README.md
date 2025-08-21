@@ -40,7 +40,7 @@ This code requires **Python 3.10+** and the following packages:
 
 ## ⚙️ Installation
 
-Clone the repository:
+Clone the repository and set up your environment:
 
 ```bash
 git clone https://github.com/<your-username>/Cosmic_Ray_Diffusion.git
@@ -50,14 +50,3 @@ conda create -n crdiff python=3.10
 conda activate crdiff
 
 pip install numpy==1.23.5 healpy==1.16.5 astropy==5.3 scipy==1.10 matplotlib==3.7
-
-import crpropa
-import numpy as np
-import healpy as hp
-from astropy.io import fits
-import matplotlib.pyplot as plt
-
-# Define magnetic field and simulation parameters here
-# Run CRPropa simulation
-# Save and analyze diffusion results
-
