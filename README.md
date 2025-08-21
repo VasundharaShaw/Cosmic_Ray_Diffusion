@@ -50,3 +50,14 @@ conda create -n crdiff python=3.10
 conda activate crdiff
 
 pip install numpy==1.23.5 healpy==1.16.5 astropy==5.3 scipy==1.10 matplotlib==3.7
+
+## 📚 Reference
+
+If you use this repository in your research, please cite:
+
+- V. Shaw et al., *Galactic halo bubble magnetic fields and UHECR deflections*,  
+  MNRAS 517, 2534 (2022)  
+
+- V. Shaw et al., *Influence of the Galactic Halo on the UHECR Multipoles*,  
+  [arXiv:2501.16881](https://arxiv.org/abs/2501.16881), under review at MNRAS
+
