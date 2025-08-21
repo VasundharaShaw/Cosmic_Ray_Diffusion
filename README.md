@@ -2,6 +2,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)  
 [![CRPropa3](https://img.shields.io/badge/CRPropa3-3.2-green.svg)](https://crpropa.github.io/CRPropa3/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This repository provides tools to calculate **cosmic-ray particle diffusion** using the forward-tracking scheme implemented in [**CRPropa3**](https://crpropa.github.io/CRPropa3/).  
 It is intended for researchers working on cosmic-ray propagation, diffusion studies, and comparisons with analytical models.  
